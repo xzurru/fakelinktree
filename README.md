@@ -1,2 +1,2 @@
-# duckmod
-duckmod is a minecraft mod
+# zurrumod
+zurrumod is a minecraft mod
